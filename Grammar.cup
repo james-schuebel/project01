@@ -1,0 +1,19 @@
+import java_cup.runtime.*;
+
+terminal        CLASS, FINAL, VOID;
+terminal String INT, CHAR, BOOL, FLOAT;
+terminal        IF, ELSE, WHILE, READ, PRINT, PRINTLN, RETURN;
+terminal        PAREN_O, PAREN_C, BRACKET_O, BRACKET_C, CURLY_BRACKET_O, CURLY_BRACKET_C;
+terminal        SEMI, COMMA, QUESTION, COLON;
+terminal        ASSN;
+terminal        MULT, DIVIDE, PLUS, MINUS, LT, GT, LTE, GTE, EQ, NEQ, OR, AND, NOT;
+terminal        INC, DEC;
+terminal        TRUE, FALSE;
+terminal String ID;
+terminal int    INTLIT;
+terminal double FLOATLIT;
+terminal String CHARLIT;
+terminal String STRLIT;
+
+non terminal dummy;
+dummy ::= ;
