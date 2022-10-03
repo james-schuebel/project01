@@ -1,13 +1,13 @@
-## CS 4386.001, Compiler Design, Fall 2020
+## CS 4386.001, Compiler Design, Fall 2022
 # Project Assignment #1
-### Oded Falik (oxf170130)
+### James Schuebel
 
 How to run:
-    - paste your test text into code.txt
-    - run "make run"
+    - put all test cases within code.txt
+    - enter "make run" on the command line
     - if lexing was successful, output will be in out.txt
 
-Outputs of test files (basicFails.txt, basicRegex.txt, basicTerminals.txt) are available in BasicFailsOut.txt, basicRegexOut.txt, and basicTerminalsOut.txt
+Outputs of test files will be in basicFails.txt, basicRegex.txt, basicTerminals.txt) are available in BasicFailsOut.txt, basicRegexOut.txt, and basicTerminalsOut.txt
 
 ------------------------------------------------------
 
