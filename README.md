@@ -3,11 +3,14 @@
 ### James Schuebel
 
 How to run:
+
     - put all test cases within code.txt
+    
     - enter "make run" on the command line
+    
     - if lexing was successful, output will be in out.txt
 
-Outputs of test files will be in basicFails.txt, basicRegex.txt, basicTerminals.txt) are available in BasicFailsOut.txt, basicRegexOut.txt, and basicTerminalsOut.txt
+Outputs of the given test files: basicFails.txt, basicRegex.txt, basicTerminals.txt will be in BasicFailsOut.txt, basicRegexOut.txt, and basicTerminalsOut.txt
 
 ------------------------------------------------------
 
